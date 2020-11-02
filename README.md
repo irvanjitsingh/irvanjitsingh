@@ -9,4 +9,4 @@
 - 🌱 I’m currently learning React Native and ML
 - 💬 Ask me about mindfulness, fitness and spirituality
 - 📫 How to reach me: hello@irvanjit.com
-- ⚡ Fun fact: my name is pronounced ir-van-jeet (think *igloo* and *sun* with a V) and it means triumph over adversary
+- ⚡ Fun fact: my name is pronounced ir-vun-jeet (think of the *I* in *igloo* and *sun* with a *V*) and it means triumph over adversary
