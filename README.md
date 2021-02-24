@@ -1,12 +1,8 @@
 ### Hi there 👋
 
-#### I'm Irvanjit Singh (ਇਰਵਨਜੀਤ ਸਿੰਘ) 👳🏾‍♂️ 
+#### I'm Irvanjit Singh 👳🏾‍♂️ 
 
-- 💻 I'm a full-time iOS Developer at Clearbridge Mobile, located in the Greater Toronto Area
-- 🏫 I studied **Computer Engineering** at the **University of Waterloo**
-- 🍁 I'm a Toronto native but the Bay Area in California 🌞 is my home away from home
-- 🔭 I’m currently working on some cool projects involving ML and NLP
-- 🌱 I’m currently learning React Native and ML
-- 💬 Ask me about mindfulness, fitness and spirituality
-- 📫 How to reach me: hello@irvanjit.com
-- ⚡ Fun fact: my name is pronounced ir-vun-jeet (think of the *I* in *igloo* and *sun* with a *V*) and it means triumph over adversary
+I'm a:
+- 💻 Software Engineer
+- 🏫 **University of Waterloo Computer Engineering** alumnus
+- 🍁 from Toronto
